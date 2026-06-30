@@ -58,7 +58,7 @@
     </div>
 
     <a class="version" href="https://github.com/OpenGIS/ogis-app">
-      v1.0.0
+      v1
       <i class="fa fa-github"></i>
     </a>
   </div>
