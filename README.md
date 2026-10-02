@@ -1,3 +1,8 @@
+> [!TIP]
+> **[Project moved &raquo;](https://github.com/OpenGIS/app/)**
+
+---
+
 # [www.ogis.app](http://www.ogis.app)
 
 The free, Open-Source app for creating and editing meaningful maps in the browser.
