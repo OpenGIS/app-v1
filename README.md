@@ -1,5 +1,5 @@
-> [!IMPORTANT]
-> **Retired** - This is OGIS v1, no longer maintained. The new OGIS app is at **[ogis.app](https://ogis.app)** ([source](https://github.com/OpenGIS/app)). The v1 editor remains available at [www.ogis.org/app-v1](https://www.ogis.org/app-v1/).
+> [!TIP]
+> **[ogis.app](https://ogis.app)**
 
 ---
 
