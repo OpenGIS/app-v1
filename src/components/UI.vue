@@ -2,6 +2,7 @@
 import { storeToRefs } from "pinia";
 import Menu from "@/components/UI/Menu.vue";
 import Types from "@/components/UI/Types.vue";
+import RetirementNotice from "@/components/UI/RetirementNotice.vue";
 
 import { useStateStore } from "@/stores/stateStore.js";
 const store = useStateStore();
@@ -10,6 +11,7 @@ const { showTypeEditor } = storeToRefs(store);
 
 <template>
   <div class="ui">
+    <RetirementNotice />
     <Menu />
 
     <!-- <Status /> -->

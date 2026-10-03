@@ -1,13 +1,13 @@
-> [!TIP]
-> **[Project moved &raquo;](https://github.com/OpenGIS/app/)**
+> [!IMPORTANT]
+> **Retired** - This is OGIS v1, no longer maintained. The new OGIS app is at **[ogis.app](https://ogis.app)** ([source](https://github.com/OpenGIS/app)). The v1 editor remains available at [www.ogis.org/app-v1](https://www.ogis.org/app-v1/).
 
 ---
 
-# [www.ogis.app](http://www.ogis.app)
+# OGIS App v1 (retired)
 
 The free, Open-Source app for creating and editing meaningful maps in the browser.
 
-![Screenshot of OGIS App](https://www.ogis.app/assets/img/ogis-screenshot.png)
+![Screenshot of OGIS App](public/assets/img/ogis-screenshot.png)
 
 ## Features
 
@@ -72,10 +72,10 @@ The export feature is designed for maximum compatibility and future-proofing:
 
 ```bash
 # Clone the repository (and the Waymark JS submodule)
-git clone --recurse-submodules https://github.com/OpenGIS/ogis-app
+git clone --recurse-submodules https://github.com/OpenGIS/app-v1
 
-# Navigate to the Waymark directory
-cd ogis-app
+# Navigate into the cloned directory
+cd app-v1
 
 # Install the dependencies (or pnpm/yarn install)
 npm install
@@ -86,4 +86,4 @@ npm run dev
 
 Open the provided `localhost` URL in your browser to view the app. Changes will automatically reload.
 
-Pull requests are welcome!
+This repository is archived and read-only — pull requests and issues are no longer accepted.

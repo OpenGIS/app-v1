@@ -7,6 +7,11 @@
       browser.
     </p>
 
+    <p class="retirement">
+      This is v1 — retired and no longer maintained. The new OGIS app is at
+      <a href="https://ogis.app" target="_blank" rel="noopener">ogis.app</a>.
+    </p>
+
     <p>
       This is the demo Map. Click an Overlay to Try out the Editor, or click
       "Clear" to start your own map.
@@ -57,7 +62,7 @@
       </a>
     </div>
 
-    <a class="version" href="https://github.com/OpenGIS/ogis-app">
+    <a class="version" href="https://github.com/OpenGIS/app-v1">
       v1
       <i class="fa fa-github"></i>
     </a>
@@ -89,6 +94,15 @@ const baseUrl = import.meta.env.BASE_URL;
       font-size: 1.2em;
 
       margin-bottom: 15px;
+    }
+
+    &.retirement {
+      color: #b42714;
+      font-weight: bold;
+
+      a {
+        color: inherit;
+      }
     }
   }
 

@@ -229,9 +229,9 @@
       "properties": {
         "title": "The Scarlet Ibis",
         "type": "beer",
-        "image_thumbnail_url": "https://www.ogis.app/assets/img/demo/49ECEB41-21DB-48D9-BCC0-FFA7FCD56448_1_105_c-450x450.jpeg",
-        "image_medium_url": "https://www.ogis.app/assets/img/demo/49ECEB41-21DB-48D9-BCC0-FFA7FCD56448_1_105_c-300x225.jpeg",
-        "image_large_url": "https://www.ogis.app/assets/img/demo/49ECEB41-21DB-48D9-BCC0-FFA7FCD56448_1_105_c.jpeg",
+        "image_thumbnail_url": "assets/img/demo/49ECEB41-21DB-48D9-BCC0-FFA7FCD56448_1_105_c-450x450.jpeg",
+        "image_medium_url": "assets/img/demo/49ECEB41-21DB-48D9-BCC0-FFA7FCD56448_1_105_c-300x225.jpeg",
+        "image_large_url": "assets/img/demo/49ECEB41-21DB-48D9-BCC0-FFA7FCD56448_1_105_c.jpeg",
         "description": "Good food and drink, especially after a long ride!"
       }
     },
@@ -356,9 +356,9 @@
       "properties": {
         "title": "Cape Scott Lighthouse",
         "type": "photo",
-        "image_thumbnail_url": "https://www.ogis.app/assets/img/demo/BF4ECCB4-10AD-4B31-80B2-FED86215FB85_1_105_c-450x450.jpeg",
-        "image_medium_url": "https://www.ogis.app/assets/img/demo/BF4ECCB4-10AD-4B31-80B2-FED86215FB85_1_105_c-300x225.jpeg",
-        "image_large_url": "https://www.ogis.app/assets/img/demo/BF4ECCB4-10AD-4B31-80B2-FED86215FB85_1_105_c.jpeg"
+        "image_thumbnail_url": "assets/img/demo/BF4ECCB4-10AD-4B31-80B2-FED86215FB85_1_105_c-450x450.jpeg",
+        "image_medium_url": "assets/img/demo/BF4ECCB4-10AD-4B31-80B2-FED86215FB85_1_105_c-300x225.jpeg",
+        "image_large_url": "assets/img/demo/BF4ECCB4-10AD-4B31-80B2-FED86215FB85_1_105_c.jpeg"
       }
     },
     {
@@ -372,9 +372,9 @@
       "type": "Feature",
       "properties": {
         "type": "photo",
-        "image_thumbnail_url": "https://www.ogis.app/assets/img/demo/A2301CA1-5C06-4FB3-A85D-304682727C30_1_105_c-450x450.jpeg",
-        "image_medium_url": "https://www.ogis.app/assets/img/demo/A2301CA1-5C06-4FB3-A85D-304682727C30_1_105_c-300x225.jpeg",
-        "image_large_url": "https://www.ogis.app/assets/img/demo/A2301CA1-5C06-4FB3-A85D-304682727C30_1_105_c.jpeg"
+        "image_thumbnail_url": "assets/img/demo/A2301CA1-5C06-4FB3-A85D-304682727C30_1_105_c-450x450.jpeg",
+        "image_medium_url": "assets/img/demo/A2301CA1-5C06-4FB3-A85D-304682727C30_1_105_c-300x225.jpeg",
+        "image_large_url": "assets/img/demo/A2301CA1-5C06-4FB3-A85D-304682727C30_1_105_c.jpeg"
       }
     },
     {
